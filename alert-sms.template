@@ -1,0 +1,7 @@
+From: Cameras <zabeus@gmail.com>
+Subject: Camera Alert
+
+Alert! %text% @ %time%
+Video: %vidlink%
+Live view: %camlink%
+
